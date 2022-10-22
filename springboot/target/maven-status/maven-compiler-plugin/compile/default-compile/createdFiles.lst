@@ -1,0 +1,11 @@
+com\example\demo\controller\FileController.class
+com\example\demo\DemoApplication.class
+com\example\demo\mapper\BookMapper.class
+com\example\demo\entity\User.class
+com\example\demo\common\CorsConfig.class
+com\example\demo\common\MybatisPlusConfig.class
+com\example\demo\controller\UserController.class
+com\example\demo\entity\Book.class
+com\example\demo\mapper\UserMapper.class
+com\example\demo\controller\BookController.class
+com\example\demo\common\Result.class
